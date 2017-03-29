@@ -58,8 +58,8 @@ IPAddress APgateway(192, 168, 4, 1);
 IPAddress APsubnet(255, 255, 255, 0);
 
 //***STAtion variables ***
-const char *STAssid = "Gadfly"; // Network to be joined as a station SSID
-const char *STApassword = "sh6m12@4"; // Network to be joined as a station password
+const char *STAssid = "SSID"; // Network to be joined as a station SSID
+const char *STApassword = "password"; // Network to be joined as a station password
 /*IPAddress STAlocal_IP(192, 168, 3, 50);
 IPAddress STAgateway(192, 168, 3, 1);
 IPAddress STAsubnet(255, 255, 255, 0);*/

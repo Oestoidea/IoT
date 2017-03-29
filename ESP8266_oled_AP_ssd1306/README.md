@@ -2,19 +2,19 @@
 
 The repeater can be used to build or test the stability of wireless IOT systems. The repeater connects to the access point, the parameters of which are set in advance. If the connection fails, only the local network is deployed.
 
-![ESP8266_oled_AP_ssd1306_photo](./pics/ESP8266_oled_list_ssd1306.png)
+![ESP8266_oled_AP_ssd1306_photo](./pics/ESP8266_oled_AP_ssd1306.png)
 
 When you download, the connection settings are displayed. If you want to view them again, click the Flash button for the NodeMCU (and its clones) or close the GPIO0 (D3).
 
-![ESP8266_oled_AP_ssd1306_photo](./pics/ESP8266_oled_list_ssd1306_2.png)
+![ESP8266_oled_AP_ssd1306_photo](./pics/ESP8266_oled_AP_ssd1306_2.png)
 
 You can view the data through a virtual COM port.
 
-![ESP8266_oled_AP_ssd1306_photo](./pics/ESP8266_oled_list_ssd1306_4.png)
+![ESP8266_oled_AP_ssd1306_photo](./pics/ESP8266_oled_AP_ssd1306_4.png)
 
 Also, based on the repeater, a web interface is deployed, which is accessible from external and internal networks and allows viewing current information and changing the channel number. The page is automatically updated every half a minute.
 
-![ESP8266_oled_AP_ssd1306_photo](./pics/ESP8266_oled_list_ssd1306_3.png)
+![ESP8266_oled_AP_ssd1306_photo](./pics/ESP8266_oled_AP_ssd1306_3.png)
 
 ## Equipment
 
@@ -46,6 +46,6 @@ Install [ESP8266](http://esp8266.ru/arduino-ide-esp8266/#fast-start) (Russian) l
 
 The prototype is made in acrylic case with the ability to connect the battery.
 
-![ESP8266_oled_list_ssd1306_photo](./pics/ESP8266_oled_list_ssd1306_5.png)
+![ESP8266_oled_list_ssd1306_photo](./pics/ESP8266_oled_AP_ssd1306_5.png)
 
-![ESP8266_oled_list_ssd1306_photo](./pics/ESP8266_oled_list_ssd1306_6.png)
+![ESP8266_oled_list_ssd1306_photo](./pics/ESP8266_oled_AP_ssd1306_6.png)
